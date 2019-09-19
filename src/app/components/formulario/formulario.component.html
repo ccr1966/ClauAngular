@@ -1,0 +1,22 @@
+<div class="container mt-5">
+  <h2>Contact me!</h2>
+  <form (ngSubmit)="contactForm(form.value)" #form="ngForm">
+  <div class="form-group">
+  <label>Your name:</label>
+  <input type="text" class="form-control" name="nombre" ngModel>
+  </div>
+  <div class="form-group">
+  <label>Subject:</label>
+  <input type="text" class="form-control" name="asunto" ngModel>
+  </div>
+  <div class="form-group">
+  <label>Your e-mail</label>
+  <input type="email" class="form-control" name="email" ngModel>
+  </div>
+  <div class="form-group">
+  <label>Whatever you want to ask me or tell me, please, do it here:</label>
+  <textarea class="form-control" cols="30" rows="6" name="mensaje" ngModel></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Send</button>
+  </form>
+ </div>

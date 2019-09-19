@@ -1,0 +1,26 @@
+
+
+
+<table class="table table-hover" width="100%">
+  <thead>
+    <tr>
+      <th scope="col"> </th>
+      <th scope="col">Where</th>
+      <th scope="col">How</th>
+      <th scope="col">What</th>
+      <th scope="col">When</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody  *ngFor="let trabajo of trabajos; let i = index">
+    <tr>
+      <td align="center"><img height="50" [src]="trabajo.img" [alt]="trabajo.lugar"></td>
+      <td width="250">{{ trabajo.lugar }}</td>
+      <td >{{ trabajo.modo}}</td>
+      <td width="200">{{ trabajo.rol }}</td>
+      <td width="200">{{ trabajo.fecha }}</td>
+      <td width="1000">{{ trabajo.descripcion }}</td>
+    </tr>
+     
+  </tbody>
+</table>

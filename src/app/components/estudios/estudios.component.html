@@ -1,0 +1,23 @@
+
+ 
+
+
+<table class="table table-hover" >
+  <thead>
+    <tr>
+      <th scope="col"> </th>
+      <th scope="col">Where</th>
+      <th scope="col">What</th>
+      <th scope="col">When</th>
+    </tr>
+  </thead>
+  <tbody  *ngFor="let estudio of estudios; let i = index">
+    <tr>
+      <td align="center"><img height="50" [src]="estudio.img" [alt]="estudio.lugar"></td>
+      <td>{{ estudio.lugar }}</td>
+      <td>{{ estudio.nombre }}</td>
+      <td>{{ estudio.fecha }}</td>
+    </tr>
+    
+  </tbody>
+</table>
