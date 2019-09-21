@@ -6,7 +6,7 @@ export class EstudiosService {
 
   private estudios:any[]= [
       {
-        nombre: "Bachelor Degreein Computer Science",
+        nombre: "Bachelor Degree in Computer Science",
         img: "assets/img/uns.jpg",
         fecha: "1985 / 1991",
         lugar:"Universidad Nacional del Sur",
