@@ -6,21 +6,21 @@ export class EstudiosService {
 
   private estudios:any[]= [
       {
-        nombre: "Licenciatura en Ciencias de la Computación",
+        nombre: "Bachelor Degreein Computer Science",
         img: "assets/img/uns.jpg",
         fecha: "1985 / 1991",
         lugar:"Universidad Nacional del Sur",
         posicion:"0"
       },
       {
-        nombre: "Diplomatura en .NET C#",
+        nombre: "Diplomature in .NET C#",
         img: "assets/img/utn.png",
         fecha: "2018-09 / 2019-02",
         lugar:"Universidad Tecnológica Argentina",
         posicion:"1"
       },
       {
-        nombre: "Desarrollo en Angular",
+        nombre: "Programming with Angular",
         img: "assets/img/utn.png",
         fecha: "2019-06 / 2019-07",
         lugar:"Universidad Tecnológica Argentina",
