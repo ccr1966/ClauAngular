@@ -1,4 +1,4 @@
-const nodemailer = require('nodemailer');
+ const nodemailer = require('nodemailer');
 
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
