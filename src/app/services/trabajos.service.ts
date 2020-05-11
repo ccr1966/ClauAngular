@@ -58,6 +58,24 @@ export class TrabajosService {
         modo:"Office",
         descripcion:" Development of ammunition inventory stock control applications for the Logistic Support Military Unit Base at Pigue city. ",
         posicion:"6"
+      },
+  {
+        rol: "Programmer",
+        img: "assets/img/blank.jpg",
+        fecha: "1994/ 1996",
+        lugar:"Systems Solutions",
+        modo:"Remote",
+        descripcion:"Programmer in the 4th generation Progress languaje. Manteinance and customizations of the Magnus Datasul system. Afterward migrated to Progress 7 and higher ones, consequently changing the paradigm to event-driven programming.",
+        posicion:"6"
+      },
+  {
+        rol: "Assistant Professor",
+        img: "assets/img/uns.jpg",
+        fecha: "1992/ 1994",
+        lugar:"Universidad Nacional del Sur",
+        modo:"Office",
+        descripcion:"Assistant Professor A (graduate) in the following courses: Introduction to Computing, Data Processing, Algorithm Structures and Programming Languajes",
+        posicion:"6"
       }
 
     ];
