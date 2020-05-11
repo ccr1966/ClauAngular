@@ -6,7 +6,7 @@ export class LogrosService {
 
   private logros:any[]= [
       {
-        lugar: "Technisys     e-galicia.com",
+        lugar: "Technisys Website www.e-galicia.com",
         img: "assets/img/e-galicia.png",
         descripcion:"As project manager, led a multidisciplinary team responsible for the first banking WEB site: www.egalicia.com. I was responsible to supervise the work of 10 programmers and graphic designers.",
         posicion:"0"
