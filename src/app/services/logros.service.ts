@@ -6,13 +6,13 @@ export class LogrosService {
 
   private logros:any[]= [
       {
-        lugar: "Technisys- e-galicia.com",
+        lugar: "Technisys   e-galicia.com",
         img: "assets/img/e-galicia.png",
         descripcion:"As project manager, led a multidisciplinary team responsible for the first banking WEB site: www.egalicia.com. I was responsible to supervise the work of 10 programmers and graphic designers.",
         posicion:"0"
       },
       {
-        lugar: "bsTechnology- Codelco",
+        lugar: "bsTechnology   Codelco",
         img: "assets/img/codelco.jpg",
         descripcion:" Led the analysis, development, training and implementation of the Personnel Performance Evaluation system for the Public mining company of Chile, CODELCO, which had 17,000 employees at that time.",
         posicion:"1"
