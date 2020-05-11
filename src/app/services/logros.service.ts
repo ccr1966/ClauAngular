@@ -8,7 +8,7 @@ export class LogrosService {
       {
         lugar: "Technisys www.e-galicia.com",
         img: "assets/img/e-galicia.png",
-        descripcion:"As project manager, led a multidisciplinary team responsible for the first banking WEB site: www.egalicia.com. I was responsible to supervise the work of 10 programmers and graphic designers.",
+        descripcion:"As project manager, led a multidisciplinary team responsible for the first banking WEB site: www.e-galicia.com. I was responsible to supervise the work of 10 programmers and graphic designers.",
         posicion:"0"
       },
       {
