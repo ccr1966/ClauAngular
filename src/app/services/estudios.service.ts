@@ -26,6 +26,13 @@ export class EstudiosService {
         lugar:"Universidad Tecnológica Argentina",
         posicion:"1"
       },
+       {
+        nombre: "Programming with NodeJs",
+        img: "assets/img/utn.png",
+        fecha: "2019-11 / 2019-12",
+        lugar:"Universidad Tecnológica Argentina",
+        posicion:"1"
+      },
       {
         nombre: "First Certificate Level English",
         img: "assets/img/cultura.jpg",

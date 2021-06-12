@@ -19,7 +19,7 @@ import { MessageService } from './services/message.service';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/shared/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
-import { ContactoComponent } from './components/contacto/contacto.component';
+//import { ContactoComponent } from './components/contacto/contacto.component';
 import { FormularioComponent } from './components/formulario/formulario.component';
 import { EstudiosComponent } from './components/estudios/estudios.component';
 import { LogrosComponent } from './components/logros/logros.component';
@@ -32,7 +32,7 @@ import { HobbiesComponent } from './components/hobbies/hobbies.component';
     AppComponent,
     NavbarComponent,
     HomeComponent,
-    ContactoComponent,
+    //ContactoComponent,
     FormularioComponent,
     EstudiosComponent,
     LogrosComponent,
