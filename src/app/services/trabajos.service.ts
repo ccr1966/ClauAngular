@@ -11,7 +11,7 @@ export class TrabajosService {
         fecha: "2012 / 2014",
         lugar:"IACA Laboratorios",
         modo:"Office",
-        descripcion:"Visual Basic developments to imI Developed, with VisualBasic language, programs to fulfill requirements of Biologists and Biochemists, for the bioanalytical area. The programs took data from a XEVO TQ MS Waters system and generated the reports to be shown in ANMAT (National Administration of Medicines, Food and Medical Technology of Argentina). Trained in GLP (Good Laboratory Practices). ",
+        descripcion:"I Developed, with VisualBasic language, programs to fulfill requirements of Biologists and Biochemists, for the bioanalytical area. The programs took data from a XEVO TQ MS Waters system and generated the reports to be shown in ANMAT (National Administration of Medicines, Food and Medical Technology of Argentina). Trained in GLP (Good Laboratory Practices). ",
         posicion:"1"
       },
       {
