@@ -34,6 +34,14 @@ export class EstudiosService {
         posicion:"1"
       },
       {
+        nombre: "Professional WebMaster",
+        img: "assets/img/utn.png",
+        fecha: "2021-03 / 2021-09",
+        lugar:"Universidad Tecnológica Argentina",
+        posicion:"1"
+      },
+      
+      {
         nombre: "First Certificate Level English",
         img: "assets/img/cultura.jpg",
         fecha: "1973 / 1983",
